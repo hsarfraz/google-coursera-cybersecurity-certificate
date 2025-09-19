@@ -22,6 +22,12 @@ Cybersecurity, or security, is the practice of ensuring confidentiality, integri
 * security operations center (SOC) analyst
 * information security analyst
 
+<ins> Responsibilities of a security analyst </ins>
+
+* protecting computer and network systems (the analyst has to monitor the organisations internal network)
+* Installing 
+* conducting periodic security audits
+
 # Module 2: The evolution of cybersecurity
 
 You will explore how cybersecurity threats have appeared and evolved alongside the adoption of computers. You will also understand how past and present cyber attacks have influenced the development of the security field. In addition, you'll get an overview of the eight security domains.
