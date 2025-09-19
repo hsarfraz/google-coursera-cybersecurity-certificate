@@ -26,7 +26,7 @@ Cybersecurity, or security, is the practice of ensuring confidentiality, integri
 
 * protecting computer and network systems (the analyst has to monitor the organisations internal network)
 * Installing prevention software (sometimes the security analyst will support software and hardware development)
-* conducting periodic security audits
+* conducting periodic security audits (A security audit is a review of an organization's security records, activities, and other related documents)
 
 # Module 2: The evolution of cybersecurity
 
