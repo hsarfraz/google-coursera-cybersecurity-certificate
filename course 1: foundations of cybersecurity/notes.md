@@ -1,3 +1,5 @@
+* glossary of terms for this course [link](https://www.coursera.org/learn/foundations-of-cybersecurity/resources/L1aML)
+
 # Module 1: Welcome to the exciting world of cybersecurity
 
 Begin your journey into cybersecurity! You'll explore the cybersecurity field, and learn about the job responsibilities of cybersecurity professionals.
