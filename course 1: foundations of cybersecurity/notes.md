@@ -8,6 +8,13 @@ Cybersecurity, or security, is the practice of ensuring confidentiality, integri
 
 * For example, requiring complex passwords to access sites and services improves **confidentiality** by making it much more difficult for a threat actor to compromise them.
 
+<ins> Benefits of security </ins>
+
+* Protects against external and internal threats
+* Meets regalatory compliance (allows organisation to avoid fines and audits + upholding the ethical obligation to protect users)
+* Maintains and improves business productivity
+* Reduces expences
+
 # Module 2: The evolution of cybersecurity
 
 You will explore how cybersecurity threats have appeared and evolved alongside the adoption of computers. You will also understand how past and present cyber attacks have influenced the development of the security field. In addition, you'll get an overview of the eight security domains.
