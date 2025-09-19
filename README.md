@@ -1,5 +1,7 @@
 # google-coursera-cybersecurity-certificate
 
+* coursera google cybersecurity group [link](https://www.coursera.support/s/google-cybersecurity-community)
+
 ## CV bullet points
 
 ## Course 1: Foundations of Cybersecurity 
