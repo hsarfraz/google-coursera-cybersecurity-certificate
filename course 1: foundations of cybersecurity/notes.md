@@ -28,6 +28,11 @@ Cybersecurity, or security, is the practice of ensuring confidentiality, integri
 * Installing prevention software (sometimes the security analyst will support software and hardware development)
 * conducting periodic security audits (A security audit is a review of an organization's security records, activities, and other related documents)
 
+<ins> Cyber security operations vs. Projects </ins>
+
+* Cyber security operations focus on responding to detections and doing investigations
+* Cyber security projects focus on working with other teams to build new detections or improve current detections 
+
 # Module 2: The evolution of cybersecurity
 
 You will explore how cybersecurity threats have appeared and evolved alongside the adoption of computers. You will also understand how past and present cyber attacks have influenced the development of the security field. In addition, you'll get an overview of the eight security domains.
