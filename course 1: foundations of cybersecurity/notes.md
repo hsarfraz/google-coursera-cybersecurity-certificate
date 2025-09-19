@@ -25,7 +25,7 @@ Cybersecurity, or security, is the practice of ensuring confidentiality, integri
 <ins> Responsibilities of a security analyst </ins>
 
 * protecting computer and network systems (the analyst has to monitor the organisations internal network)
-* Installing 
+* Installing prevention software
 * conducting periodic security audits
 
 # Module 2: The evolution of cybersecurity
