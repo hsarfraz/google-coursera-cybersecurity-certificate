@@ -4,6 +4,10 @@
 
 Begin your journey into cybersecurity! You'll explore the cybersecurity field, and learn about the job responsibilities of cybersecurity professionals.
 
+Cybersecurity, or security, is the practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation.
+
+* For example, requiring complex passwords to access sites and services improves **confidentiality** by making it much more difficult for a threat actor to compromise them.
+
 # Module 2: The evolution of cybersecurity
 
 You will explore how cybersecurity threats have appeared and evolved alongside the adoption of computers. You will also understand how past and present cyber attacks have influenced the development of the security field. In addition, you'll get an overview of the eight security domains.
