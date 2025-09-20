@@ -53,6 +53,10 @@ Technical skills
 * Threat landscape knowledge (knowing the latest threats and methods in cyber crime)
 * Incident response (knowing the proper way to respond to threats)
 
+<ins> Types of personal identifiable information (PII) </ins>
+
+* someone's full name, date of birth, physical address, phone number, email address, internet protocol, or IP address and similar information
+
 # Module 2: The evolution of cybersecurity
 
 You will explore how cybersecurity threats have appeared and evolved alongside the adoption of computers. You will also understand how past and present cyber attacks have influenced the development of the security field. In addition, you'll get an overview of the eight security domains.
