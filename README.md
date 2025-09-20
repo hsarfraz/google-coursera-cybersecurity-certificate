@@ -11,7 +11,7 @@ In this course, you will learn the primary job responsibilities and core skills 
 
 Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities.
 
-## Course 2: Play it safe, manage security risks
+## Course 2: Play it safe, manage security risks -[link](https://github.com/hsarfraz/google-coursera-cybersecurity-certificate/tree/main/course%202:%20play%20it%20safe,%20manage%20security%20risks)
 
 Identify how cybersecurity professionals use frameworks and controls to protect business operations, and explore common cybersecurity tools.
 
