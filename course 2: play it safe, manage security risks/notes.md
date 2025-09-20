@@ -1,4 +1,6 @@
 
+* course 2 glossary -[link](https://docs.google.com/document/d/1wvEvTZeN2iOg_Cil52pe9WRsLZyhK9U0gKcztftrzRE/template/preview?resourcekey=0-BPIcdyJSYeqNxaQ3l1qAAA)
+
 # Module 1: Security domains
 
 You will gain understanding of the CISSP’s eight security domains. Then, you'll learn about primary threats, risks, and vulnerabilities to business operations. In addition, you'll explore the National Institute of Standards and Technology’s (NIST) Risk Management Framework and the steps of risk management.
