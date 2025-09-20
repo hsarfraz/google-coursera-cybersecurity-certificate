@@ -53,9 +53,15 @@ Technical skills
 * Threat landscape knowledge (knowing the latest threats and methods in cyber crime)
 * Incident response (knowing the proper way to respond to threats)
 
-<ins> Types of personal identifiable information (PII) </ins>
+<ins> Types of personal identifiable information (PII) vs sensitive personal identifiable information (SPII) </ins>
+
+personal identifiable information (PII)
 
 * someone's full name, date of birth, physical address, phone number, email address, internet protocol, or IP address and similar information
+
+sensitive personal identifiable information (SPII)
+
+* social security numbers, medical or financial information, and biometric data, such as facial recognition
 
 # Module 2: The evolution of cybersecurity
 
