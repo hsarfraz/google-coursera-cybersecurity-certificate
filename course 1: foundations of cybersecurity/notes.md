@@ -41,6 +41,8 @@ Transferable skills
 * collaboration (working together with different teams such as digital forensics)
 * analysis (analyse complex scenarios and what recommendations can be given)
 * Problem solving (identifying a security problem and then give a solution to it)
+* time manegement (knowing what tasks to prioritize)
+* growth mindset (always learning new advancements in the industry & new technologies)
 
 Technical skills
 
