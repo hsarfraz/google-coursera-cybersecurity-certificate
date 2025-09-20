@@ -47,8 +47,11 @@ Transferable skills
 Technical skills
 
 * Programming languages
-* Security information and event management (SIEM) tools
+* Security information and event management (SIEM) tools (log events such as log ins)
 * Computer forensics (identify, analyse, and preserve criminal evidence within networks)
+* Intrusion detection systems (IDS) (tools which monitor system activity and flag potential threats)
+* Threat landscape knowledge (knowing the latest threats and methods in cyber crime)
+* Incident response (knowing the proper way to respond to threats)
 
 # Module 2: The evolution of cybersecurity
 
