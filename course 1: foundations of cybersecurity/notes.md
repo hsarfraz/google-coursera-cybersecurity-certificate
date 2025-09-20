@@ -31,7 +31,22 @@ Cybersecurity, or security, is the practice of ensuring confidentiality, integri
 <ins> Cyber security operations vs. Projects </ins>
 
 * Cyber security operations focus on responding to detections and doing investigations
-* Cyber security projects focus on working with other teams to build new detections or improve current detections 
+* Cyber security projects focus on working with other teams to build new detections or improve current detections
+
+<ins> Core skills needed in cyber security </ins>
+
+Transferable skills
+
+* communication (communicating security breaches to different audiences)
+* collaboration (working together with different teams such as digital forensics)
+* analysis (analyse complex scenarios and what recommendations can be given)
+* Problem solving (identifying a security problem and then give a solution to it)
+
+Technical skills
+
+* Programming languages
+* Security information and event management (SIEM) tools
+* Computer forensics (identify, analyse, and preserve criminal evidence within networks)
 
 # Module 2: The evolution of cybersecurity
 
