@@ -11,6 +11,10 @@ You will gain understanding of the CISSP’s eight security domains. Then, you'l
 2. asset security (securing digital and physical assets. It's also related to the storage, maintenance, retention, and destruction of data)
 3. security architecture and engineering (focused on optimizing data security by ensuring effective tools, systems, and processes are in place to protect an organization's assets and data)
 4. communication and network security (focused on managing and securing physical networks and wireless communication)
+5. identity and access management (identification, authentication, authorisation, accountability )
+6. security assessment and testing (security control testing, collecting and analysing data, conducting security audits)
+7. security operations  (conducting investigations and implementing preventative measures)
+8. software development security (using secure coding practices)
 
 # Module 2: Security frameworks and controls 
 
