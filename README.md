@@ -15,6 +15,8 @@ Explore the cybersecurity profession, including significant events that led to t
 
 Identify how cybersecurity professionals use frameworks and controls to protect business operations, and explore common cybersecurity tools.
 
+* NIST Risk Management Framework
+
 ## Course 3: Connect and protect, networks and network security
 
 Gain an understanding of network-level vulnerabilities and how to secure networks.
