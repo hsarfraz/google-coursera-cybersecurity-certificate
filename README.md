@@ -15,6 +15,7 @@ Explore the cybersecurity profession, including significant events that led to t
 
 Identify how cybersecurity professionals use frameworks and controls to protect business operations, and explore common cybersecurity tools.
 
+* 8 CiSSP Security Domains
 * NIST Risk Management Framework
 
 ## Course 3: Connect and protect, networks and network security
