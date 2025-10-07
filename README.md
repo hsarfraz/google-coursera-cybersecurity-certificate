@@ -3,6 +3,13 @@
 * coursera google cybersecurity group [link](https://www.coursera.support/s/google-cybersecurity-community)
 * glossary for all courses [link](https://docs.google.com/document/d/1Feb8pHRY-blnpaLOohds2esd6IWdCIp-ikG7G_omSj4/template/preview?resourcekey=0-YHcAISkCiqGDq5KwO6yNeQ)
 
+Try hack me recommended careers: 
+
+* Penetration tester (red team)
+* Incident response (blue team)
+* Incident response (blue team)
+* Security engineer (engineering)
+
 ## CV bullet points
 
 ## Course 1: Foundations of Cybersecurity -[link](https://github.com/hsarfraz/google-coursera-cybersecurity-certificate/tree/main/course%201%3A%20foundations%20of%20cybersecurity)
