@@ -5,10 +5,10 @@
 
 Try hack me recommended careers: 
 
-* Penetration tester (red team)
-* Incident response (blue team)
+* Incident response (blue team) - best fit
 * Security Operations (blue team)
-* Security engineer (engineering)
+* Penetration tester (red team) - avoid, high coding
+* Security engineer (engineering) - avoid, high coding
 
 ## CV bullet points
 
