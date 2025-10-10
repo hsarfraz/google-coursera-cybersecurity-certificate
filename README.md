@@ -25,11 +25,11 @@ Identify how cybersecurity professionals use frameworks and controls to protect 
 * 8 CiSSP Security Domains
 * NIST Risk Management Framework
 
-## Course 3: Connect and protect, networks and network security
+## Course 3: Connect and protect, networks and network security -Engineering
 
 Gain an understanding of network-level vulnerabilities and how to secure networks.
 
-## Course 4: Tools of trade, linux and SQL
+## Course 4: Tools of trade, linux and SQL -Blue Team/Cybersecurity Operations
 
 Explore foundational computing skills, including communicating with the Linux operating system through the command line and querying databases with SQL.
 
